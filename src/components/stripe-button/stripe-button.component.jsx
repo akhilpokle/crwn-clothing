@@ -24,4 +24,4 @@ const StripeCheckoutButton = ({price}) => {
     )
 }
 
-export const StripeCheckoutButton;
+export default StripeCheckoutButton;
